@@ -1,0 +1,6 @@
+{
+    "version": "0.1.1",
+    "download_page_url": "https://github.com/CyberTianzun/Field/releases",
+    "urgent": "false",
+    "description": "1. fix UI bug\n2. fix update field bug for mongodb"
+}

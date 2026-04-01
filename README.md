@@ -36,6 +36,7 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
   - [ ] LSP for Editor
   - [ ] Code Fold for Editor
   - [ ] Connection Group
+  - [ ] Auto save
 - [ ] SSL/TLS
 - [ ] SSH tunnel
 - [ ] Database tool
@@ -44,6 +45,13 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 - [ ] Enhance management
   - [ ] Query History
 - [ ] Vector Query
+
+## Change Logs
+
+### 0.1.1
+
+1. fix UI bug
+2. fix update field bug for mongodb
 
 ## Repo
 
