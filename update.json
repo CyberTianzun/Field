@@ -1,6 +1,6 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.3",
     "download_page_url": "https://github.com/CyberTianzun/Field/releases",
     "urgent": "false",
-    "description": "1. fix UI bug\n2. fix update field bug for mongodb"
+    "description": "1. reopen last opened files\n2. record recent files"
 }
