@@ -53,6 +53,11 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 1. fix UI bug
 2. fix update field bug for mongodb
 
+### 0.1.3
+
+1. reopen last opened files
+2. record recent files
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
