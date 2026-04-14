@@ -58,6 +58,10 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 1. reopen last opened files
 2. record recent files
 
+### 0.1.5
+
+1. enhance mongodb `update` and `query`
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
