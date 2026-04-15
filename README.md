@@ -62,6 +62,10 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 
 1. enhance mongodb `update` and `query`
 
+### 0.1.6
+
+1. support for SSH tunnel and SSL/TLS
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.

@@ -1,6 +1,6 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "download_page_url": "https://github.com/CyberTianzun/Field/releases",
     "urgent": "false",
-    "description": "1. enhance mongodb `update` and `query`"
+    "description": "1. support for SSH tunnel and SSL/TLS"
 }
