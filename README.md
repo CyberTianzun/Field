@@ -25,20 +25,20 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 ## TODO
 
 - [ ] Talk To Data (Chat Panel)
-- [ ] More database kinds
-  - [ ] Clickhouse
-  - [ ] LibSQL / Turso
-  - [ ] SurrealDB
-  - [ ] CockroachDB
-  - [ ] TiDB
+- [X] More database kinds
+  - [X] Clickhouse
+  - [X] LibSQL / Turso
+  - [X] SurrealDB
+  - [X] CockroachDB
+  - [X] TiDB
 - [ ] Enhance UI
   - [ ] Multiselect spreadsheets
   - [ ] LSP for Editor
   - [ ] Code Fold for Editor
   - [ ] Connection Group
-  - [ ] Auto save
-- [ ] SSL/TLS
-- [ ] SSH tunnel
+  - [X] Auto save
+- [X] SSL/TLS
+- [X] SSH tunnel
 - [ ] Database tool
   - [ ] Table dump
   - [ ] Database dump
