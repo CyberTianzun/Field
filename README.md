@@ -66,6 +66,13 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 
 1. support for SSH tunnel and SSL/TLS
 
+### 0.1.7
+
+1. support for Clickhouse
+2. support for Sqlite/libsql/Turso
+3. support for CockroachDB
+4. support for TiDB
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
