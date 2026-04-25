@@ -1,6 +1,6 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "download_page_url": "https://github.com/CyberTianzun/Field/releases",
     "urgent": "false",
-    "description": "1. support for Clickhouse\n2. support for Sqlite/libsql/Turso\n3. support for CockroachDB\n4. support for TiDB"
+    "description": "1. auto detect code paragraph in code editor\n2. support json fold by tree-sit"
 }

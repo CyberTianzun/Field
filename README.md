@@ -73,6 +73,11 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 3. support for CockroachDB
 4. support for TiDB
 
+### 0.1.8
+
+1. auto detect code paragraph in code editor
+2. support json fold by tree-sit
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
