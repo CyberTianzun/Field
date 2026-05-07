@@ -33,8 +33,8 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
   - [X] TiDB
 - [ ] Enhance UI
   - [ ] Multiselect spreadsheets
-  - [ ] LSP for Editor
-  - [ ] Code Fold for Editor
+  - [ ] ~~LSP for Editor~~
+  - [X] Code Fold for Editor (And json in value editor)
   - [ ] Connection Group
   - [X] Auto save
 - [X] SSL/TLS
