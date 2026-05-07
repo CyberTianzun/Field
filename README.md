@@ -78,6 +78,10 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 1. auto detect code paragraph in code editor
 2. support json fold by tree-sit
 
+### 0.1.9
+
+fix some bugs
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
