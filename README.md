@@ -82,6 +82,10 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 
 fix some bugs
 
+### 0.1.11
+
+fix some bugs
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
