@@ -86,6 +86,10 @@ fix some bugs
 
 fix some bugs
 
+### 0.1.12
+
+fix some bugs
+
 ## Repo
 
 Because many modifications have been made to gpui-component, the source code will be released in future.
