@@ -32,7 +32,7 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
   - [X] CockroachDB
   - [X] TiDB
 - [ ] Enhance UI
-  - [ ] Multiselect spreadsheets
+  - [X] Multiselect spreadsheets
   - [ ] ~~LSP for Editor~~
   - [X] Code Fold for Editor (And json in value editor)
   - [ ] Connection Group
@@ -40,7 +40,7 @@ Powered by GPUI, Field delivers a consistent, native experience across **macOS**
 - [X] SSL/TLS
 - [X] SSH tunnel
 - [ ] Database tool
-  - [ ] Table dump
+  - [X] Table dump
   - [ ] Database dump
 - [ ] Enhance management
   - [ ] Query History
